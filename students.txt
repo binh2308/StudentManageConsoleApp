@@ -1,0 +1,2 @@
+1,Leo Messi,messi@wc.com,0240619875,4.0
+Cristiano Ronaldo,Cristiano Ronaldo,ronaldo@wc.com,0050219852,3.8
